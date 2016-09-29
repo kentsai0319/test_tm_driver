@@ -41,5 +41,5 @@ build/
 src/
 tm_driver/
 
-# Ignore Executable
-tm_socket_test
+# Ignore test_tm_driver executable
+test_tm_driver
