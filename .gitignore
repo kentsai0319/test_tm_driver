@@ -27,3 +27,19 @@
 *.exe
 *.out
 *.app
+
+# Ignore cmake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+# Ignore build direction
+build/
+
+# Ignore tm_driver direction
+src/
+tm_driver/
+
+# Ignore Executable
+tm_socket_test
